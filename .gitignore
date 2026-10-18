@@ -30,3 +30,9 @@ csrc/
 # Project temporary files
 *.tmp
 *.bak
+sim_*
+*.dot
+*_crop.png
+lbl_*.png
+*_300dpi.png
+*_600dpi.png
