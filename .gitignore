@@ -1,0 +1,32 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+
+# EDA / Cadence Virtuoso temporary and log files
+cds.log*
+*.cdsrun*
+*.log
+*.val
+*.sim
+*.drc
+*.lvs
+INCA_libs/
+waves.shm/
+*.vcd
+*.fsdb
+*.key
+simv*
+csrc/
+
+# Project temporary files
+*.tmp
+*.bak
